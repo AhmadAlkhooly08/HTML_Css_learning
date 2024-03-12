@@ -1,0 +1,15 @@
+table{
+    width: 50;
+  }
+  span{
+    color: green;
+    width: 7px;
+  }
+  hr{
+    width: 1200px;
+  }
+  pre{
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+  }
