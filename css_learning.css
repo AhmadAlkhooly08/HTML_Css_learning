@@ -25,3 +25,15 @@
     text-decoration: none;
     color: black;
 }
+button{
+    margin-left: 20px;
+}
+#poetry{
+    margin-left: 150px;
+}
+h2{
+    background-color: green;
+    width: fit-content;
+    color: white;
+}
+
