@@ -8,19 +8,21 @@
 #ahmad td, #ahmad th {
     border: 1px solid #ddd;
     padding: 8px;
-  }
-  span{
+}
+span{
     color: green;
     width: 7px;
+    
+}
+hr{
+    max-width: 1200px;
   }
-  hr{
-    width: 1200px;
-  }
-  pre{
+pre{
     color: blue;
     font-size: 20px;
     font-weight: 500;
-  }
+    
+}
 #audio{
     text-decoration: none;
     color: black;
@@ -31,9 +33,18 @@ button{
 #poetry{
     margin-left: 150px;
 }
+h1{
+    background-color: green;
+    width: fit-content;
+    color: white;
+    text-transform: uppercase;
+}
 h2{
     background-color: green;
     width: fit-content;
     color: white;
+    text-transform: capitalize;
 }
-
+img{
+    border-radius: 3px;
+}
