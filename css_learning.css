@@ -48,3 +48,7 @@ h2{
 img{
     border-radius: 3px;
 }
+p{
+    word-spacing: 3px;
+    line-height: 25px;
+}
