@@ -12,7 +12,8 @@
 span{
     color: green;
     width: 7px;
-    
+    text-shadow: 1px 1px 1px green;
+
 }
 hr{
     max-width: 1200px;
@@ -38,17 +39,24 @@ h1{
     width: fit-content;
     color: white;
     text-transform: uppercase;
+    text-shadow: 3px 3px 1px black;
+
 }
 h2{
     background-color: green;
     width: fit-content;
     color: white;
     text-transform: capitalize;
+    text-shadow: 3px 3px 1px black;
 }
 img{
     border-radius: 3px;
+    /*box-shadow: 1px 1px 3px 2px blue ;*/
 }
 p{
     word-spacing: 3px;
     line-height: 25px;
+}
+#text{
+    /*text-decoration: dashed underline blue;*/
 }
