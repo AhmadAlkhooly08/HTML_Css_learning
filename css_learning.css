@@ -35,12 +35,9 @@ button{
     margin-left: 150px;
 }
 h1{
-    background-color: green;
-    width: fit-content;
-    color: white;
-    text-transform: uppercase;
-    text-shadow: 3px 3px 1px black;
-
+   text-align: center;
+   font-family: 'Noto Nastaliq Urdu';
+   font-size: xx-large; 
 }
 h2{
     background-color: green;
@@ -56,6 +53,7 @@ img{
 p{
     word-spacing: 3px;
     line-height: 25px;
+    font-family: sans-serif;
 }
 #text{
     /*text-decoration: dashed underline blue;*/
